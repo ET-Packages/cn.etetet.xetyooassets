@@ -1,4 +1,9 @@
 {
 "Id": 1012,
-"Name": "XETYooAssets"
+"Name": "XETYooAssets",
+"ScriptsReferences": {
+  "HotfixView": [
+    "YooAsset"
+  ]
+}
 }
