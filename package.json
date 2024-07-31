@@ -1,7 +1,7 @@
 {
   "name": "cn.etetet.xetyooassets",
   "displayName": "XET.YooAssets",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "unity": "2022.3",
   "description": "XET YooAssets",
   "author": {
@@ -17,8 +17,8 @@
     "com.tuyoogame.yooasset": "2.1.1"
   },
   "dependencies": {
-    "cn.etetet.core": "0.0.11",
-    "cn.etetet.yooassets": "0.0.2"
+    "cn.etetet.core": "0.0.16",
+    "cn.etetet.yooassets": "2.1.3"
   },
   "publishConfig":
   {
